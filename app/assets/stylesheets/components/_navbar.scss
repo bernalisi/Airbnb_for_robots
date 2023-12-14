@@ -1,0 +1,33 @@
+
+.navbar-lewagon {
+  justify-content: center;
+  padding: 10px; // Adjust the desired padding
+  background: white;
+  font-family: "JetBrains Mono", "monospace";
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.20);
+  border: black;
+  border-radius: 5px;
+  width: 1200px;
+  height: 85px;
+  left: 120px;
+  top: 16px;
+}
+
+.navbar-lewagon .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar{
+  padding: 1% !important;
+}
+
+.navbar-brand {
+  img{
+    width: 60px;
+    height: 60px;
+  }
+}
+
+.navbar_container {
+  justify-content: center;
+}
